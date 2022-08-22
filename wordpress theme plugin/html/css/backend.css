@@ -1,0 +1,33 @@
+.NEW_EasyGDPR {
+    width: fit-content;
+}
+
+.NEW_EasyGDPR h2 {
+    background-color: #006c93;
+    color: #fff;
+    border-radius:15px;
+    text-align: center;
+    box-shadow: 1px 2px 2px 0px #0000004b;
+}
+
+.NEW_EasyGDPR label {
+    display: block;
+    margin: 15px 0 10px 0;
+    font-weight: 700;
+    font-size:1.4rem;
+}
+
+
+.NEW_EasyGDPR .btn_container {
+    padding: 15px 0 15px 0;
+}
+
+
+
+.NEW_EasyGDPR_table_title {
+    background-color: #fff;
+}
+
+.postbox .inside h2, .wrap [class$=icon32]+h2, .wrap h1, .wrap>h2:first-child {
+    padding: 9px 0 9px;
+}
